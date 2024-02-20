@@ -26,35 +26,6 @@ pub fn Blog() -> impl IntoView {
                             <p class="mt-1 text-gray-500">
                                 Yes, you can cancel anytime no questions are asked while you cancel but we would highly appreciate if you will give us some feedback.
                             </p>
-                            <div class="mt-4 grid lg:flex lg:justify-between lg:items-center gap-y-5 lg:gap-y-0">
-                                // <!-- Badges/Tags -->
-                                <div>
-                                    <a
-                                        class="m-0.5 inline-flex items-center gap-1.5 py-2 px-3 rounded-full text-sm bg-orange-200 text-teal-800 hover:bg-orange-700"
-                                        href="#"
-                                    >
-                                        Plan
-                                    </a>
-                                    <a
-                                        class="m-0.5 inline-flex items-center gap-1.5 py-2 px-3 rounded-full text-sm bg-orange-200 text-teal-800 hover:bg-orange-700"
-                                        href="#"
-                                    >
-                                        Web development
-                                    </a>
-                                    <a
-                                        class="m-0.5 inline-flex items-center gap-1.5 py-2 px-3 rounded-full text-sm bg-orange-200 text-teal-800 hover:bg-orange-700"
-                                        href="#"
-                                    >
-                                        Free
-                                    </a>
-                                    <a
-                                        class="m-0.5 inline-flex items-center gap-1.5 py-2 px-3 rounded-full text-sm bg-orange-200 text-teal-800 hover:bg-orange-700"
-                                        href="#"
-                                    >
-                                        Team
-                                    </a>
-                                </div>
-                            </div>
 
                         </div>
                     </div>

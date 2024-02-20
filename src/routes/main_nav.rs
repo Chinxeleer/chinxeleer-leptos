@@ -3,7 +3,7 @@ use leptos::*;
 #[component]
 pub fn Nav() -> impl IntoView {
     view! {
-        <nav class="px-10 py-5 mb-12 flex justify-between md:flex-wrap">
+        <nav class="px-10 py-5 mb-8 flex justify-between md:flex-wrap">
             <a href="/">
                 <h1 class="text-xl font-bold hover:text-orange-800 font-body cursor-pointer">
                     chinxeleer

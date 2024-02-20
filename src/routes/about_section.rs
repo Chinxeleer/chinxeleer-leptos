@@ -11,7 +11,8 @@ pub fn AboutSection() -> impl IntoView {
                     About Me <img class="h-20 w-20 inline" src="/cuddlyferris.svg" alt=""/>
                 </h3>
                 <p class="text-base text-balance text-gray-700">
-                    "I'm a 3" <sup>"rd"</sup> "-year student at Wits University, studying "
+                    "I'm a " <span class="text-2xl text-orange-900">"3"</span> <sup>"rd"</sup>
+                    "-year student at Wits University, studying "
                     <span class="text-orange-800">"Computer Science and Applied Mathematics"</span>
                     ".
                     Passionate about solving real-life problems, I primarily work with "

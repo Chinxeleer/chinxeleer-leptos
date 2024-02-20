@@ -16,7 +16,10 @@ pub fn App() -> impl IntoView {
 
     view! {
         <Stylesheet id="leptos" href="/pkg/chinxeleer.css"/>
-
+        // <link
+        // href="https://cdn.jsdelivr.net/npm/quill@2.0.0-rc.2/dist/quill.snow.css"
+        // rel="stylesheet"
+        // />
         // sets the document title
         <Title text="Welcome to Leptos"/>
 

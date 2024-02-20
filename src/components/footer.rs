@@ -44,7 +44,7 @@ pub fn AboutFooter() -> impl IntoView {
                 <div class="mt-3 space-x-2">
                     <a
                         class="inline-flex justify-center items-center w-10 h-10 text-center text-gray-500 hover:bg-gray-100 rounded-full focus:outline-none focus:ring-2 focus:ring-teal-600 focus:ring-offset-2 focus:ring-offset-white transition"
-                        href="#"
+                        href="mailto:blessingeleer.programming@gmail.com"
                     >
                         <svg
                             class="flex-shrink-0 w-3.5 h-3.5"
@@ -59,7 +59,7 @@ pub fn AboutFooter() -> impl IntoView {
                     </a>
                     <a
                         class="inline-flex justify-center items-center w-10 h-10 text-center text-gray-500 hover:bg-gray-100 rounded-full focus:outline-none focus:ring-2 focus:ring-blue-600 focus:ring-offset-2 focus:ring-offset-white transition dark:text-gray-500 dark:hover:text-gray-200 dark:hover:bg-gray-800"
-                        href="#"
+                        href="https://github.com/Chinxeleer"
                     >
                         <svg
                             class="flex-shrink-0 w-3.5 h-3.5"
